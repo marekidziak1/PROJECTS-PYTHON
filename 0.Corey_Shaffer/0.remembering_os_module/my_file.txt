@@ -1,0 +1,4 @@
+1pierwsza linijka
+2ga linijka
+3cia linijka
+4ta linijka

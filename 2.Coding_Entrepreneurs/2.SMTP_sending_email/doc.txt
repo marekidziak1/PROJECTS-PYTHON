@@ -1,0 +1,13 @@
+0# The main goal of program is auto-sending mails 
+by SMTP protocol to list of mails wchich you include
+in python list. 
+
+1# Main function is working in send_mail.py. Its name
+is send_mail(...). All arguments are default apart of
+emails where you should give a list of emails
+
+2# Use main.py file to open it in terminal with arguments:
+    1*arg is name 
+    2*arg and rest args are emails
+    Use command:
+        python -i main.py exampleName example@mail.com example2@mail.com

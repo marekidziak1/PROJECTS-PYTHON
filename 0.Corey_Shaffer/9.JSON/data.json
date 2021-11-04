@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "emails": [
+                "johnsmith@gmail.com",
+                "john.smith@work-place.com"
+            ],
+            "has-license": false,
+            "name": "John Smith",
+            "phone": "615-555-7164"
+        },
+        {
+            "emails": null,
+            "has-license": true,
+            "name": "Jane Doe",
+            "phone": "560-537-7514"
+        }
+    ]
+}

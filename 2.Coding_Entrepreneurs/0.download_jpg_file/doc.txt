@@ -1,0 +1,16 @@
+0* Use main.py and main2.py to start the program
+    main.py is linked with creating path with os module, 
+        downloading jpg file from web by requests module
+        and saveing a file by wrting it by open function
+    main2.py do the same things what main.py do but to
+        saving files it uses module shutil
+
+1* To start program in terminal you have to be in the
+    in the folder path and type a command (in console):
+        python3 -i main.py 
+
+2* Remember to delete jpg files in folder. Otherwise
+    program will not download files but only show in 
+    console text: 'path exists'
+
+    

@@ -1,0 +1,5 @@
+0* The project is about downloading mails form imap server
+
+1*To open it use terminal, change direction to path where 
+folder is and write command: 
+        python3 -i main.py
